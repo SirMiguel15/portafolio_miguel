@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "titulo": "Sistema Web Biblioteca",
+    "descripcion": "Aplicación web desarrollada con Python y Django para la administración de una biblioteca.",
+    "categoria": "Python",
+    "tecnologias": [
+      "Python",
+      "Django",
+      "SQLite"
+    ],
+    "imagen": "/images/biblioteca.jpeg",
+    "github": "https://github.com/SirMiguel15/Biblioteca.git",
+    "demo": ""
+  },
+  {
+    "id": "p2",
+    "titulo": "Portafolio Profesional",
+    "descripcion": "Portafolio web desarrollado con React, Vite y Tailwind CSS.",
+    "categoria": "React",
+    "tecnologias": [
+      "React",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "imagen": "/images/portafolio.jpeg",
+    "github": "",
+    "demo": ""
+  },
+  {
+    "id": "p3",
+    "titulo": "Mantenimiento de Computadores",
+    "descripcion": "Experiencia realizando mantenimiento preventivo y correctivo de equipos de cómputo.",
+    "categoria": "Soporte Técnico",
+    "tecnologias": [
+      "Hardware",
+      "Software",
+      "Diagnóstico"
+    ],
+    "imagen": "/images/mantenimiento.jpeg",
+    "github": "",
+    "demo": ""
+  }
+]
